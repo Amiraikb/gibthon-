@@ -3,7 +3,7 @@
      "description": "اللهم صل على محمد وآل محمد",
      "addons": ["scalingo-postgresql"],
      "keywords": ["rickthon", "userbot","scalingo"],
-     "repository": "https://github.com/rick1128/rickthoniq",
+     "repository": "https://github.com/Amiraikb/gibthon-",
    "stack": "container",
      "env": {
          "ALIVE_NAME": {
