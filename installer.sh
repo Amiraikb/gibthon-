@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/rick1128/rickf.git"
+REPO="https://github.com/Amiraikb/r.git"
 DIR="/root/jepthon"
 
 spinner(){
